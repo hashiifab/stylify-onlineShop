@@ -1,0 +1,2 @@
+/Users/hashiifabdillah/Documents/IT/my_project/apps/stylify-onlineShop/android/app/.cxx/Debug/182u2604/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/hashiifabdillah/Documents/IT/my_project/apps/stylify-onlineShop/android/app/.cxx/Debug/182u2604/armeabi-v7a/CMakeFiles/rebuild_cache.dir
